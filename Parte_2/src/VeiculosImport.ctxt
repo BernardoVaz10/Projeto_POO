@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=VeiculosImport
+comment1.params=armazem
+comment1.target=VeiculosImport(Armazem)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ VeiculosImport\r\n\ \r\n\ @param\ armazem\r\n
+comment2.params=
+comment2.target=void\ readVeiculos()
+comment2.text=\r\n\ Method\ that\ reads\ the\ file\ vehiculos.csv\r\n
+comment3.params=line
+comment3.target=Vehicles\ parseVeiculo(java.lang.String)
+comment3.text=\r\n\ Method\ that\ parses\ the\ lines\ and\ creates\ the\ veiculos\r\n\ \r\n\ @param\ line\r\n\ @return\ the\ veiculos\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getVeiculos()
+comment4.text=\r\n\ Method\ that\ returns\ the\ veiculos\r\n\ \r\n\ @return\ the\ veiculos\r\n
+comment5.params=
+comment5.target=int\ getNumberOfVeiculos()
+comment5.text=\r\n\ Method\ that\ returns\ the\ number\ of\ veiculos\r\n\ \r\n\ @return\ the\ number\ of\ veiculos\r\n
+numComments=6

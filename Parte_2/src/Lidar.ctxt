@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lidar
+comment0.text=\r\n\ This\ class\ lidar\ is\ a\ children\ class\ from\ Sensors\ that\ can\ see\ wich\ positions\r\n\ of\ the\ map\ are\ free\ or\ busy\r\n\ \r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lidar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lidar\r\n
+comment2.params=v
+comment2.target=boolean\ checkObstacles(Vehicles)
+comment2.text=\r\n\ Method\ to\ check\ if\ there\ is\ an\ busy\ posicion\ in\ the\ way\ using\ the\ map\ by\r\n\ simulating\ the\ movement\ of\ the\ car\ using\ cicles\ and\ comparing\ each\ one\ of\ the\r\n\ simulated\ posicions\ wich\ the\ map\ to\ see\ if\ is\ busy\ or\ free\r\n\ \r\n\ @param\ v\r\n\ @return\ true\ or\ false\r\n
+comment3.params=
+comment3.target=int\ getAngle()
+comment3.text=\r\n\ Method\ to\ get\ the\ angle\r\n\ \r\n\ @return\ angle\r\n
+comment4.params=
+comment4.target=int\ getRange()
+comment4.text=\r\n\ Method\ to\ get\ the\ range\r\n\ \r\n\ @return\ range\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShelfesImport
+comment0.text=\r\n\ This\ class\ ShelfesImport,\ is\ the\ class\ that\ will\ read\ the\ file\ shelfes.csv\ and\r\n\ store\ the\ lines\ in\ an\ arraylist\r\n\r\n\ @author\ Bernardo\ e\ Tiago\r\n\ @version\ June\ 2023\r\n
+comment1.params=
+comment1.target=ShelfesImport()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShelfesImport\r\n
+comment2.params=
+comment2.target=void\ readShelfes()
+comment2.text=\r\n\ Method\ that\ reads\ the\ file\ shelfes.csv\r\n
+comment3.params=line
+comment3.target=Shelf\ parseShelfes(java.lang.String)
+comment3.text=\r\n\ Method\ that\ parses\ the\ lines\ and\ creates\ the\ shelfes\r\n\ \r\n\ @param\ line\r\n\ @return\ the\ shelfes\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getShelfes()
+comment4.text=\r\n\ Method\ that\ returns\ the\ shelfes\r\n\ \r\n\ @return\ the\ shelfes\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LocaisImport
+comment0.text=\r\n\ This\ class\ LocaisImport,\ is\ the\ class\ that\ will\ read\ the\ file\ locais.csv\ and\r\n\ store\ the\ lines\ in\ an\ arraylist\r\n\r\n\ @author\ Bernardo\ e\ Tiago\r\n\ @version\ June\ 2023\r\n
+comment1.params=
+comment1.target=LocaisImport()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LocaisImport\r\n
+comment2.params=
+comment2.target=void\ readLocais()
+comment2.text=\r\n\ Method\ that\ reads\ the\ file\ locais.csv\r\n
+numComments=3

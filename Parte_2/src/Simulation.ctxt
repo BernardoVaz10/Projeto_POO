@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\r\n\ This\ class\ Simulation\ is\ the\ class\ where\ we\ will\ be\ doing\ the\ simulation\r\n\ and\ where\ we\ will\ be\ calling\ the\ methods\ from\ the\ other\ classes\r\n\ to\ do\ the\ simulation\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ June\ 2023\r\n
+comment1.params=cd
+comment1.target=Simulation(CentroDeDistribuicaoFX)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Simulation\r\n
+comment2.params=vehicles\ index
+comment2.target=void\ stepAVG(java.util.ArrayList,\ int)
+comment2.text=\r\n\ Method\ to\ do\ the\ simulation\ of\ the\ AutomaticCar\r\n\ \r\n\ @param\ vehicles\r\n\ @param\ index\r\n
+numComments=3

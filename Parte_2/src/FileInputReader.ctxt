@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileInputReader
+comment0.text=\r\n\ This\ class\ FileInputReader\ is\ a\ class\ that\ will\ read\ the\ files\ that\ we\ will\r\n\ use\ in\ the\ program\r\n\r\n\ @author\ Bernardo\ e\ Tiago\r\n\ @version\ June\ 2023\r\n
+comment1.params=filepath
+comment1.target=java.util.ArrayList\ readCsv(java.lang.String)
+comment1.text=\r\n\ Method\ that\ reads\ files\r\n\r\n\ @param\ filepath\ file\ location\ address\ of\ the\ infos\r\n\ @return\ all\ the\ lines\ in\ the\ file\ inside\ a\ List\ (ArrayList)\r\n
+numComments=2

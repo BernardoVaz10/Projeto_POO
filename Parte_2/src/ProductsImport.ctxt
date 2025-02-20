@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ProductsImport
+comment0.text=\r\n\ This\ class\ ProductsImport,\ is\ the\ class\ that\ will\ read\ the\ file\ products.csv\r\n\ and\ store\ the\ products\ in\ an\ arraylist\r\n\r\n\ @author\ Bernardo\ e\ Tiago\r\n\ @version\ June\ 2023\r\n
+comment1.params=
+comment1.target=ProductsImport()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProductsImport\r\n
+comment2.params=
+comment2.target=void\ readProducts()
+comment2.text=\r\n\ Method\ that\ reads\ the\ file\ products.csv\r\n
+comment3.params=line
+comment3.target=Product\ parseProducts(java.lang.String)
+comment3.text=\r\n\ Method\ that\ parses\ the\ lines\ and\ creates\ the\ products\r\n\ \r\n\ @param\ line\r\n\ @return\ the\ product\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getProducts()
+comment4.text=\r\n\ Method\ that\ returns\ the\ products\r\n\ \r\n\ @return\ the\ products\r\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TypeOfProduct
+comment0.text=\r\n\ This\ class\ TypeOfProduct\ is\ the\ class\ that\ will\ help\ us\ making\ the\r\n\ distinction\ of\ each\ product\ giving\ us\ the\ info\ about\ what\ is\ each\ product\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
+comment1.params=product
+comment1.target=TypeOfProduct\ getTypeOfProduct(TypeOfProduct)
+comment1.text=\r\n\ Method\ to\ get\ the\ type\ of\ product\r\n\ \r\n\ @param\ product\r\n\ @return\ product\r\n
+numComments=2
