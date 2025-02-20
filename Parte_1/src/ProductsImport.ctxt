@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ProductsImport
+comment1.params=
+comment1.target=ProductsImport()
+comment2.params=
+comment2.target=void\ readProducts()
+comment3.params=line
+comment3.target=Product\ parseProducts(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getProducts()
+numComments=5

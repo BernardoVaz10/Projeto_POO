@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ultrasonic
+comment0.text=\r\n\ This\ class\ Ultrasonic\ is\ a\ children\ class\ of\ Sensors\ and\ its\ similar\ to\ class\r\n\ Lidar\ the\ diference\ is\ the\ angle\ and\ range\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ultrasonic()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ultrasonic\r\n
+comment2.params=v
+comment2.target=boolean\ checkObstacles(Veiculo)
+comment3.params=
+comment3.target=int\ getAngle()
+comment4.params=
+comment4.target=int\ getRange()
+numComments=5

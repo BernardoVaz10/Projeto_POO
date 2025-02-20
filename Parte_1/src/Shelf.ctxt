@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Shelf
+comment0.text=\r\n\ This\ class\ Shelf\ is\ an\ children\ class\ of\ Posicionaveis\ and\ will\ work\ almost\r\n\ as\ the\ vehicle,\ we\ create\ and\ add/remove\ packs\ from\ shelfes\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=pack
+comment1.target=void\ addToShelf(CentroDeDistribuicao)
+comment2.params=pack
+comment2.target=void\ removeFromShelf(CentroDeDistribuicao)
+comment3.params=v
+comment3.target=boolean\ canAddToShelf(Veiculo)
+comment4.params=v
+comment4.target=boolean\ isOpositeDir(Veiculo)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+numComments=7

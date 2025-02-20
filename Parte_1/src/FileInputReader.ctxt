@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FileInputReader
+comment1.params=filepath
+comment1.target=java.util.ArrayList\ readCsv(java.lang.String)
+comment1.text=\r\n\ Method\ that\ reads\ files\r\n\r\n\ @param\ filepath\ file\ location\ address\ of\ the\ infos\r\n\ @return\ all\ the\ lines\ in\ the\ file\ inside\ a\ List\ (ArrayList)\r\n
+numComments=2

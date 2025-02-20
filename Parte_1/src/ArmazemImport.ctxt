@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArmazemImport
+comment1.params=
+comment1.target=ArmazemImport()
+comment2.params=
+comment2.target=void\ readArmazem()
+comment3.params=line
+comment3.target=Armazem\ parseArmazem(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getArmazem()
+numComments=5

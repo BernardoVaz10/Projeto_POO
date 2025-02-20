@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Posicionaveis
+comment0.text=\r\n\ This\ class\ Posicionaveis\ is\ the\ father\ class\ of\ almost\ every\ class\ (directly\r\n\ or\ indirectly)\ and\ here\ ww\ will\ store\ every\ vehicle\ created\ and\ every\ shelf\r\n\ created\ so\ we\ can\ later\ have\ access\ either\ to\ compare\ or\ select\ the\ one\r\n\ pretended\r\n\r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Posicionaveis()
+comment2.params=v
+comment2.target=void\ addVehicle(Veiculo)
+comment3.params=v
+comment3.target=void\ removeVehicle(Veiculo)
+comment4.params=s
+comment4.target=void\ addShelf(Shelf)
+comment5.params=s
+comment5.target=void\ removeShelf(Shelf)
+comment6.params=v
+comment6.target=boolean\ isOccupiedAtLocal(Veiculo)
+comment7.params=v
+comment7.target=boolean\ isOccupiedOutLocal(Veiculo)
+comment8.params=x\ y
+comment8.target=Veiculo\ getVehicleAtLocal(int,\ int)
+comment9.params=x\ y
+comment9.target=Shelf\ getShelfAtLocal(int,\ int)
+numComments=10

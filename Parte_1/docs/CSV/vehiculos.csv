@@ -1,0 +1,5 @@
+tipoDeVeiculo,x,y,direction
+AutomaticGuidedCar,15,15,UP
+Trailer,5,5,UP
+TransportCar,10,10,UP
+UnitLoadCarrier,20,20,UP

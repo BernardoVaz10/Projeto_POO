@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ This\ class\ Product\ is\ where\ we\ create\ the\ products\ wich\ their\ variables\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=name\ weight\ product
+comment1.target=Product(java.lang.String,\ double,\ TypeOfProduct)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Product\r\n
+comment2.params=
+comment2.target=TypeOfProduct\ getTypeOfProduct()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=
+comment5.target=int\ getId()
+numComments=6

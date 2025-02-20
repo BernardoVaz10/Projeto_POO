@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CardBox
+comment0.text=\r\n\ This\ class\ CardBox\ is\ a\ children\ class\ of\ CentroDeDistribuicao\ and\ its\ a\ type\r\n\ of\ packing\ that\ can\ be\ used\ to\ pack\ some\ type\ of\ product,\ this\ is\ where\ we\r\n\ will\ see\ if\ we\ can\ add\ some\ type\ of\ product\ and\ add\ or\ remove\ them\ if\ possible\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=isBigStored
+comment1.target=CardBox(boolean)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ CardBox\r\n
+comment2.params=
+comment2.target=double\ getCardBoxWeight()
+comment3.params=
+comment3.target=java.lang.String\ getCode()
+comment4.params=product
+comment4.target=void\ addSmall(Product)
+comment5.params=product
+comment5.target=void\ addBig(Product)
+comment6.params=product
+comment6.target=void\ removeSmall(Product)
+comment7.params=product
+comment7.target=void\ removeBig(Product)
+comment8.params=product
+comment8.target=boolean\ canAddSmall(Product)
+comment9.params=product
+comment9.target=boolean\ canAddBig(Product)
+numComments=10

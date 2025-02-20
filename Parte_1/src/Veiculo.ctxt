@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment0.text=\r\n\ This\ class\ Veiculo\ is\ an\ abstract\ class\ and\ father\ class\ of\ the\ 4\ types\ of\r\n\ vehicles\ and\ here\ we\ just\ put\ the\ general\ methods\ we\ will\ be\ using\ in\ the\r\n\ children\ classes\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
+comment1.params=
+comment1.target=Veiculo()
+comment10.params=pack\ shelf
+comment10.target=void\ addFromCarToShelf(CentroDeDistribuicao,\ Shelf)
+comment11.params=pack\ shelf
+comment11.target=void\ addFromShelfToCar(CentroDeDistribuicao,\ Shelf)
+comment2.params=armazem
+comment2.target=void\ setArmazem(Armazem)
+comment3.params=speed
+comment3.target=void\ setSpeed(int)
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=x\ y
+comment5.target=void\ moveTo(int,\ int)
+comment6.params=
+comment6.target=void\ move()
+comment7.params=
+comment7.target=void\ stop()
+comment8.params=
+comment8.target=int\ getX()
+comment9.params=
+comment9.target=int\ getY()
+numComments=12

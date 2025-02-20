@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pallet
+comment0.text=\r\n\ This\ class\ Pallet\ is\ a\ children\ class\ of\ CentroDeDistribuicao\ and\ its\ a\ type\r\n\ of\ packing\ that\ can\ be\ used\ to\ pack\ some\ type\ of\ product,\ this\ is\ where\ we\r\n\ will\ see\ if\ we\ can\ add\ some\ type\ of\ product\ and\ add\ or\ remove\ them\ if\r\n\ possible\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Pallet()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Pallet\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCode()
+comment3.params=cardbox
+comment3.target=boolean\ canStore(CardBox)
+comment4.params=cardBox
+comment4.target=void\ addCardBox(CardBox)
+comment5.params=cardbox
+comment5.target=void\ removeCardBox(CardBox)
+numComments=6
