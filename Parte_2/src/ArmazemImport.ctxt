@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ArmazemImport
+comment0.text=\r\n\ The\ class\ ArmazemImport\ will\ read\ the\ file\ armazem.csv\ and\ will\ create\ the\r\n\ armazem.\r\n\r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ArmazemImport()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArmazemImport\r\n
+comment2.params=
+comment2.target=void\ readArmazem()
+comment2.text=\r\n\ Method\ to\ read\ the\ file\ armazem.csv\r\n
+comment3.params=line
+comment3.target=Armazem\ parseArmazem(java.lang.String)
+comment3.text=\r\n\ Method\ to\ parse\ the\ file\ armazem.csv\r\n\ \r\n\ @param\ line\r\n\ @return\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getArmazem()
+comment4.text=\r\n\ Method\ to\ get\ the\ armazem\r\n\ \r\n\ @return\ armazem\r\n
+numComments=5

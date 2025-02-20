@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bag
+comment0.text=\r\n\ This\ class\ Bag\ is\ a\ children\ class\ of\ CentroDeDistribuicao\ and\ its\ a\ type\ of\r\n\ packing\ that\ can\ be\ used\ to\ pack\ some\ type\ of\ product,\ this\ is\ where\ we\ will\r\n\ see\ if\ we\ can\ add\ some\ type\ of\ product\ and\ add\ or\ remove\ them\ if\ possible\r\n\ \r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Bag()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Bag\r\n
+comment2.params=
+comment2.target=double\ getBagWeight()
+comment2.text=\r\n\ Method\ to\ get\ the\ actual\ bag\ weight\r\n\ \r\n\ @return\ bagWeight\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCode()
+comment3.text=\r\n\ Method\ to\ get\ the\ code\ of\ the\ bag\r\n\ \r\n\ @return\ sb.toString()\r\n
+comment4.params=product
+comment4.target=void\ addProduct(Product)
+comment4.text=\r\n\ Method\ to\ add\ a\ product\ to\ the\ bag\ using\ the\ auxiliar\ method\r\n\ \r\n\ @param\ product\r\n
+comment5.params=
+comment5.target=void\ removeProduct()
+comment5.text=\r\n\ Method\ to\ remove\ a\ product\ from\ the\ bag\r\n
+comment6.params=product
+comment6.target=boolean\ canBeAdded(Product)
+comment6.text=\r\n\ Method\ to\ see\ if\ we\ can\ add\ the\ product\ to\ the\ bag\r\n\ \r\n\ @param\ product\r\n\ @return\ true\r\n\ @return\ false\r\n
+numComments=7

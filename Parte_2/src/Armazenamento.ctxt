@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Armazenamento
+comment0.text=\r\n\ This\ class\ Armazenamento,\ is\ the\ children\ class\ of\ Local\ and\ is\ the\ class\r\n\ that\ will\ receive\ the\ packages\ from\ the\ outside\ occupying\ 50%\ from\ the\ Left\r\n\ wall.\r\n\r\n\ @author\ Bernardo\ Vaz\ 202200278,\ Tiago\ Ramada\ 202200354\r\n\ @email\ Bernardo(202200278@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ Tiago(202200354@estudantes.ips.pt)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=local\ armazem
+comment1.target=Armazenamento(Local,\ Armazem)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Armazenamento\r\n
+comment2.params=pack
+comment2.target=void\ receivePackages(CentroDeDistribuicao)
+comment2.text=\r\n\ Method\ to\ receive\ packages\ from\ the\ outside\r\n\ \r\n\ @param\ pack\r\n
+comment3.params=pack
+comment3.target=CentroDeDistribuicao\ sentPackages(CentroDeDistribuicao)
+comment3.text=\r\n\ Method\ to\ send\ packages\ to\ the\ outside\r\n\ \r\n\ @param\ pack\r\n\ @return\r\n
+numComments=4
